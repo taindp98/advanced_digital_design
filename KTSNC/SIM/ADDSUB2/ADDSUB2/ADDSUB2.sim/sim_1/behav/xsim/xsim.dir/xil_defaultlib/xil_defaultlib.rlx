@@ -1,0 +1,20 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/add_sub.v,1591533200,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/adder.v,,add_sub,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/add_sub_tb.v,1590474378,verilog,,,,add_sub_tb,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/adder.v,1591535220,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/checkspecial.v,,adder10;adder25;adder26;adder8;adder9;full_adder,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/checkspecial.v,1590413124,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/compare_exp.v,,checkspecial,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/compare_exp.v,1590476064,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/export_result_addsub.v,,compare_exp,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/export_result_addsub.v,1590413526,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/find_1_first.v,,export_result_addsub,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/find_1_first.v,1590410732,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/mux.v,,find_1_first,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/mux.v,1590413154,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/normalize.v,,mux1b;mux24b;mux8b,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/normalize.v,1590413004,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/postadder26.v,,normalize,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/postadder26.v,1590410630,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/preadder26.v,,postadder26,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/preadder26.v,1590409650,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/shiftleft.v,,preadder26,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/shiftleft.v,1590410600,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/shiftright.v,,shiftleft;shiftleftby1;shiftleftby16;shiftleftby2;shiftleftby4;shiftleftby8,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/shiftright.v,1590413182,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/too_large.v,,shiftright;shiftrightby1;shiftrightby16;shiftrightby2;shiftrightby4;shiftrightby8,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/too_large.v,1590480510,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/two_comp.v,,too_large,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/ADDSUB2/two_comp.v,1590472204,verilog,,C:/Users/PC/Desktop/KTSNC/ADDSUB2/add_sub_tb.v,,two_comp10;two_comp25;two_comp8;two_comp9,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/SIM/ADDSUB2/ADDSUB2/ADDSUB2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,

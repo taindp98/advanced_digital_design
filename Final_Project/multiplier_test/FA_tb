@@ -1,0 +1,5 @@
+module FA_tb;
+	wire a,b,cin;
+	reg s,cout;
+
+	FA FA_uut(a,b,cin,s,cout);

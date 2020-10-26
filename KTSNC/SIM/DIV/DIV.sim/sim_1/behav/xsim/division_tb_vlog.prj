@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../DIV/adder.v" \
+"../../../../../../DIV/checkspecial.v" \
+"../../../../../../DIV/clb.v" \
+"../../../../../../DIV/div.v" \
+"../../../../../../DIV/division.v" \
+"../../../../../../DIV/export_result_div.v" \
+"../../../../../../DIV/find_1_first.v" \
+"../../../../../../DIV/normalize.v" \
+"../../../../../../DIV/shiftleft.v" \
+"../../../../../../DIV/two_comp.v" \
+"../../../../../../DIV/division_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

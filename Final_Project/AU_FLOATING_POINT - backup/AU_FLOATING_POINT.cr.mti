@@ -1,0 +1,219 @@
+D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/adder.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder3
+-- Compiling module adder6
+-- Compiling module adder8
+-- Compiling module adder9
+-- Compiling module adder10
+-- Compiling module adder12
+-- Compiling module adder24
+-- Compiling module adder25
+-- Compiling module adder26
+
+Top level modules:
+	adder3
+	adder6
+	adder8
+	adder9
+	adder10
+	adder12
+	adder24
+	adder25
+	adder26
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/find_1_first.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/find_1_first.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module find_1_first
+
+Top level modules:
+	find_1_first
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/shiftleft.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/shiftleft.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shiftleft
+-- Compiling module shiftleftby1
+-- Compiling module shiftleftby2
+-- Compiling module shiftleftby4
+-- Compiling module shiftleftby8
+-- Compiling module shiftleftby16
+
+Top level modules:
+	shiftleft
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/mult.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/mult.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mult24
+-- Compiling module mult12
+-- Compiling module mult6
+-- Compiling module mult3
+-- Compiling module FA
+
+Top level modules:
+	mult24
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/div.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/div.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module div
+
+Top level modules:
+	div
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/multiplier_tb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/multiplier_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier_tb
+
+Top level modules:
+	multiplier_tb
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/postadder26.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/postadder26.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module postadder26
+
+Top level modules:
+	postadder26
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/preadder26.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/preadder26.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module preadder26
+
+Top level modules:
+	preadder26
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/multiplier.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/export_result.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/export_result.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module export_result_addsub
+-- Compiling module export_result_mult
+-- Compiling module export_result_div
+
+Top level modules:
+	export_result_addsub
+	export_result_mult
+	export_result_div
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/normalize.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/normalize.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module normalize
+
+Top level modules:
+	normalize
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/two_compliment.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/two_compliment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module two_compliment25
+-- Compiling module two_compliment10
+-- Compiling module two_compliment9
+-- Compiling module two_compliment8
+-- Compiling module two_compliment5
+
+Top level modules:
+	two_compliment25
+	two_compliment10
+	two_compliment9
+	two_compliment8
+	two_compliment5
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/AU_FLOATING_POINT_TESTBENCH.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/AU_FLOATING_POINT_TESTBENCH.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AU_FLOATING_POINT_TESTBENCH
+
+Top level modules:
+	AU_FLOATING_POINT_TESTBENCH
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/clb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/clb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clb
+-- Compiling module clb3
+-- Compiling module clb2
+
+Top level modules:
+	clb
+	clb3
+	clb2
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/mux.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux24b
+-- Compiling module mux8b
+-- Compiling module mux1b
+
+Top level modules:
+	mux24b
+	mux8b
+	mux1b
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/division_tb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/division_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module division_tb
+
+Top level modules:
+	division_tb
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/add_sub.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/add_sub.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module add_sub
+
+Top level modules:
+	add_sub
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/AU_FLOATING_POINT.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/AU_FLOATING_POINT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AU_FLOATING_POINT
+
+Top level modules:
+	AU_FLOATING_POINT
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/compare_exp.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/compare_exp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module compare_exp
+
+Top level modules:
+	compare_exp
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/FA_tb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/FA_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA_tb
+
+Top level modules:
+	FA_tb
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/shiftright.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/shiftright.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shiftright
+-- Compiling module shiftrightby1
+-- Compiling module shiftrightby2
+-- Compiling module shiftrightby4
+-- Compiling module shiftrightby8
+-- Compiling module shiftrightby16
+
+Top level modules:
+	shiftright
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/division.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/division.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module division
+
+Top level modules:
+	division
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/add_sub_tb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/add_sub_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module add_sub_tb
+
+Top level modules:
+	add_sub_tb
+
+} {} {}} D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/checkspecial.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT/checkspecial.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module checkspecial
+
+Top level modules:
+	checkspecial
+
+} {} {}}

@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/PC/Desktop/KTSNC/MULT2/adder.v,1591575616,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/checkspecial.v,,adder10;adder25;adder8,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/checkspecial.v,1590454274,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/clb.v,,checkspecial,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/clb.v,1590454288,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/export_result_mult.v,,clb;clb2;clb3,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/export_result_mult.v,1590414186,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/find_1_first.v,,export_result_mult,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/find_1_first.v,1590454500,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/mult.v,,find_1_first,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/mult.v,1591580721,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/multiplier.v,,mult24,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/multiplier.v,1590415008,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/normalize.v,,multiplier,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/multiplier_tb.v,1590482458,verilog,,,,multiplier_tb,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/normalize.v,1590480832,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/shiftleft.v,,normalize,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/shiftleft.v,1590454670,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/two_comp.v,,shiftleft;shiftleftby1;shiftleftby16;shiftleftby2;shiftleftby4;shiftleftby8,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/MULT2/two_comp.v,1590481320,verilog,,C:/Users/PC/Desktop/KTSNC/MULT2/multiplier_tb.v,,two_comp10,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/SIM/MULT2/MULT2/MULT2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,

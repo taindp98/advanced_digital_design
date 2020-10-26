@@ -1,0 +1,53 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/add_sub.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder8
+INFO: [VRFC 10-311] analyzing module adder9
+INFO: [VRFC 10-311] analyzing module adder10
+INFO: [VRFC 10-311] analyzing module adder25
+INFO: [VRFC 10-311] analyzing module adder26
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/checkspecial.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module checkspecial
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/clb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clb
+INFO: [VRFC 10-311] analyzing module clb3
+INFO: [VRFC 10-311] analyzing module clb2
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/compare_exp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module compare_exp
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/export_result_addsub.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module export_result_addsub
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/find_1_first.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module find_1_first
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux24b
+INFO: [VRFC 10-311] analyzing module mux8b
+INFO: [VRFC 10-311] analyzing module mux1b
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/normalize.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normalize
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/postadder26.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module postadder26
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/preadder26.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module preadder26
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/shiftleft.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftleft
+INFO: [VRFC 10-311] analyzing module shiftleftby1
+INFO: [VRFC 10-311] analyzing module shiftleftby2
+INFO: [VRFC 10-311] analyzing module shiftleftby4
+INFO: [VRFC 10-311] analyzing module shiftleftby8
+INFO: [VRFC 10-311] analyzing module shiftleftby16
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/shiftright.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftright
+INFO: [VRFC 10-311] analyzing module shiftrightby1
+INFO: [VRFC 10-311] analyzing module shiftrightby2
+INFO: [VRFC 10-311] analyzing module shiftrightby4
+INFO: [VRFC 10-311] analyzing module shiftrightby8
+INFO: [VRFC 10-311] analyzing module shiftrightby16
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/too_large.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module too_large
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/two_comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module two_comp25
+INFO: [VRFC 10-311] analyzing module two_comp10
+INFO: [VRFC 10-311] analyzing module two_comp9
+INFO: [VRFC 10-311] analyzing module two_comp8
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/KTSNC/ADDSUB/add_sub_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_tb

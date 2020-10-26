@@ -1,0 +1,40 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/FA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder6
+INFO: [VRFC 10-311] analyzing module adder8
+INFO: [VRFC 10-311] analyzing module adder10
+INFO: [VRFC 10-311] analyzing module adder12
+INFO: [VRFC 10-311] analyzing module adder24
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/checkspecial.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module checkspecial
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/clb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clb
+INFO: [VRFC 10-311] analyzing module clb3
+INFO: [VRFC 10-311] analyzing module clb2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/export_result_mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module export_result_mult
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/find_1_first.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module find_1_first
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult24
+INFO: [VRFC 10-311] analyzing module mult12
+INFO: [VRFC 10-311] analyzing module mult6
+INFO: [VRFC 10-311] analyzing module mult3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/normalize.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normalize
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/shiftleft.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftleft
+INFO: [VRFC 10-311] analyzing module shiftleftby1
+INFO: [VRFC 10-311] analyzing module shiftleftby2
+INFO: [VRFC 10-311] analyzing module shiftleftby4
+INFO: [VRFC 10-311] analyzing module shiftleftby8
+INFO: [VRFC 10-311] analyzing module shiftleftby16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/two_comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module two_comp10
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/MULT1/multiplier_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplier_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/SIM/MULT/MULT.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../MULT1/FA.v" \
+"../../../../../../MULT1/adder.v" \
+"../../../../../../MULT1/checkspecial.v" \
+"../../../../../../MULT1/clb.v" \
+"../../../../../../MULT1/export_result_mult.v" \
+"../../../../../../MULT1/find_1_first.v" \
+"../../../../../../MULT1/mult.v" \
+"../../../../../../MULT1/multiplier.v" \
+"../../../../../../MULT1/normalize.v" \
+"../../../../../../MULT1/shiftleft.v" \
+"../../../../../../MULT1/two_comp.v" \
+"../../../../../../MULT1/multiplier_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

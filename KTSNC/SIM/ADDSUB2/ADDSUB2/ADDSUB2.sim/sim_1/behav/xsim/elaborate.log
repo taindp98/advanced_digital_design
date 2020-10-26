@@ -1,0 +1,21 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/Programs/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 69a3b84c3deb45ebab3c162f8a239a4e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot add_sub_tb_behav xil_defaultlib.add_sub_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Cin' [C:/Users/PC/Desktop/KTSNC/ADDSUB2/adder.v:192]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/add_sub.v:145]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/compare_exp.v:53]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/two_comp.v:56]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/two_comp.v:69]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Cin' [C:/Users/PC/Desktop/KTSNC/ADDSUB2/adder.v:213]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/two_comp.v:30]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Cin' [C:/Users/PC/Desktop/KTSNC/ADDSUB2/adder.v:69]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Cin' [C:/Users/PC/Desktop/KTSNC/ADDSUB2/adder.v:31]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/normalize.v:66]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/normalize.v:72]
+WARNING: [VRFC 10-5021] port 'Cin' is not connected on this instance [C:/Users/PC/Desktop/KTSNC/ADDSUB2/two_comp.v:43]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Cin' [C:/Users/PC/Desktop/KTSNC/ADDSUB2/adder.v:170]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

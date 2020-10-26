@@ -1,0 +1,32 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/Programs/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 64199bf9ed64438c933e076894c1d7a6 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot multiplier_tb_behav xil_defaultlib.multiplier_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.clb
+Compiling module xil_defaultlib.clb2
+Compiling module xil_defaultlib.adder8
+Compiling module xil_defaultlib.clb3
+Compiling module xil_defaultlib.adder25
+Compiling module xil_defaultlib.mult24
+Compiling module xil_defaultlib.find_1_first
+Compiling module xil_defaultlib.shiftleftby16
+Compiling module xil_defaultlib.shiftleftby8
+Compiling module xil_defaultlib.shiftleftby4
+Compiling module xil_defaultlib.shiftleftby2
+Compiling module xil_defaultlib.shiftleftby1
+Compiling module xil_defaultlib.shiftleft
+Compiling module xil_defaultlib.adder10
+Compiling module xil_defaultlib.two_comp10
+Compiling module xil_defaultlib.normalize
+Compiling module xil_defaultlib.checkspecial
+Compiling module xil_defaultlib.export_result_mult
+Compiling module xil_defaultlib.multiplier
+Compiling module xil_defaultlib.multiplier_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot multiplier_tb_behav

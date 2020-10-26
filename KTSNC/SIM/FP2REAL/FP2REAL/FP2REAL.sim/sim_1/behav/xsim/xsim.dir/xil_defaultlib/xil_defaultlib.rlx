@@ -1,0 +1,18 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/adder.v,1593960334,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/adder_BCD.v,,adder12;adder18;adder24;adder5;adder6;adder8;adder9;full_adder,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/adder_BCD.v,1576564422,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/find_1_first.v,,adder16_BCD;adder32_BCD;adder48_BCD;adder4_BCD;adder5_forBCD;adder8_BCD,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/find_1_first.v,1594214098,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real.v,,find_1_first,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real.v,1594214920,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fraction.v,,fp2real,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real_tb.v,1593960729,verilog,,,,fp2real_tb,,,,,,,,
+,,,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/mult.v,,fraction,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/mult.v,1593960087,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/precision.v,,FA;mult12;mult18;mult24;mult3;mult6,,,,,,,,
+,,,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft.v,,precision,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft.v,1572510798,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft_frac.v,,shiftleft;shiftleftby1;shiftleftby16;shiftleftby2;shiftleftby4;shiftleftby8,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft_frac.v,1576566331,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright.v,,shiftleft_frac,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright.v,1576079513,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright_frac.v,,shiftright;shiftrightby1;shiftrightby16;shiftrightby2;shiftrightby4;shiftrightby8,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright_frac.v,1576559169,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/two_compliment.v,,shiftright_frac,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/two_compliment.v,1593959871,verilog,,C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real_tb.v,,two_compliment24;two_compliment5;two_compliment8,,,,,,,,
+C:/Users/PC/Desktop/KTSNC/SIM/FP2REAL/FP2REAL/FP2REAL.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,

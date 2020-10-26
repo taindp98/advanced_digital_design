@@ -1,0 +1,1189 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_cong
+vadd_sub
+Z0 !s110 1576072166
+!i10b 1
+!s100 5H9[bU2Yan:fSE^EXV^CB1
+I^PeI]9KO8ZoS0F=gfnDbK1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan
+w1575989422
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub.v
+Z3 L0 16
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1576072166.000000
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vadd_sub_tb
+R0
+!i10b 1
+!s100 agm;oTYa^Y1g7zkJPXS@k1
+IIAN065M06<LGJFVB3zJQd2
+R1
+R2
+w1572513823
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub_tb.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub_tb.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/add_sub_tb.v|
+!i113 1
+R6
+R7
+vadder10
+Z8 !s110 1576072167
+!i10b 1
+!s100 `9kF39DSzU1Nkk1:QYEC:3
+ILEJJ@<Y2gAORUK81:l2Hj2
+R1
+R2
+Z9 w1576059811
+Z10 8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/adder.v
+Z11 FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/adder.v
+L0 207
+R4
+r1
+!s85 0
+31
+Z12 !s108 1576072167.000000
+Z13 !s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/adder.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/adder.v|
+!i113 1
+R6
+R7
+vadder12
+R8
+!i10b 1
+!s100 GVOg4JVD82NA5Kj>75U<a1
+ITBAnH1`hSlhSBdWN8RLUK0
+R1
+R2
+R9
+R10
+R11
+L0 258
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder24
+R8
+!i10b 1
+!s100 07G4H8Y7cc?:aWbm7_4Xo2
+In85hYYUm`]aU9Ea[dYUf]2
+R1
+R2
+R9
+R10
+R11
+L0 310
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder25
+R8
+!i10b 1
+!s100 n;[n]@fUYW[UfU=XmWIjN0
+I3@nWPgKkDJfElXbINc1BZ0
+R1
+R2
+R9
+R10
+R11
+L0 343
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder26
+R8
+!i10b 1
+!s100 cR?ZEg_>GmK52PSl@`B>H3
+IoEzHF=5Xj9zPKFojCYdlH1
+R1
+R2
+R9
+R10
+R11
+L0 376
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder3
+R8
+!i10b 1
+!s100 `:>gK7LXWI9DS6R@baL1`0
+ISn9DTL86g@AU>`RGc_IgD1
+R1
+R2
+R9
+R10
+R11
+Z15 L0 15
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder5
+R8
+!i10b 1
+!s100 h8<1d>ZFC9:e82BAe1GXf3
+IRdLOH>VJeeBLAONXAD^L=3
+R1
+R2
+R9
+R10
+R11
+Z16 L0 40
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder6
+R8
+!i10b 1
+!s100 o6GcbC_2Kcz]4A2^P]A>@3
+I?=XceBSEkRW?Jc_CTag0?2
+R1
+R2
+R9
+R10
+R11
+L0 78
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder8
+R8
+!i10b 1
+!s100 NQ3[EjM>F3C;mgMn9^C]11
+IP7di0_AAmNBC56`lg:H8;1
+R1
+R2
+R9
+R10
+R11
+L0 121
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vadder9
+R8
+!i10b 1
+!s100 HXo<h[^`BloWNIbPj4J`Z3
+ILe4`UJJ`GELf6^AzYD[?J3
+R1
+R2
+R9
+R10
+R11
+L0 164
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R6
+R7
+vAU_FLOATING_POINT
+R8
+!i10b 1
+!s100 R=cjUHTLR9[1TIaE@5cg_2
+IC8D1G68<mZ<i8eKzzmkK>1
+R1
+R2
+w1575615125
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT.v
+R15
+R4
+r1
+!s85 0
+31
+R12
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT.v|
+!i113 1
+R6
+R7
+n@a@u_@f@l@o@a@t@i@n@g_@p@o@i@n@t
+vAU_FLOATING_POINT_TESTBENCH
+Z17 !s110 1576072163
+!i10b 1
+!s100 D<QiB5ZSeePoZnE8^ChVQ3
+IF3oWSg=7R5CzFcne8T?000
+R1
+R2
+w1575997856
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT_TESTBENCH.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT_TESTBENCH.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z18 !s108 1576072163.000000
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT_TESTBENCH.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/AU_FLOATING_POINT_TESTBENCH.v|
+!i113 1
+R6
+R7
+n@a@u_@f@l@o@a@t@i@n@g_@p@o@i@n@t_@t@e@s@t@b@e@n@c@h
+vcheckspecial
+R17
+!i10b 1
+!s100 `52g>l63JcR82;Z00jToS1
+Ih[?M2gWmYXK713`MG7AfG2
+R1
+R2
+w1571411935
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/checkspecial.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/checkspecial.v
+R15
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/checkspecial.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/checkspecial.v|
+!i113 1
+R6
+R7
+vclb
+R17
+!i10b 1
+!s100 AI3QN5;5IFj`zgX2a=<8W1
+I]]H_Md]:V]g6SBLBe3Z[=1
+R1
+R2
+Z19 w1571403439
+Z20 8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/clb.v
+Z21 FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/clb.v
+R15
+R4
+r1
+!s85 0
+31
+R18
+Z22 !s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/clb.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/clb.v|
+!i113 1
+R6
+R7
+vclb2
+R17
+!i10b 1
+!s100 Flfc<SUj`KPW;kCSbDezi3
+IQk[:P0WNMJ8m3Qagm`=Wc3
+R1
+R2
+R19
+R20
+R21
+L0 52
+R4
+r1
+!s85 0
+31
+R18
+R22
+R23
+!i113 1
+R6
+R7
+vclb3
+R17
+!i10b 1
+!s100 Za5K`CgdiJ_<0U?1VD9aP1
+IX@hdMd8PEmok11Q_4<mh=3
+R1
+R2
+R19
+R20
+R21
+L0 34
+R4
+r1
+!s85 0
+31
+R18
+R22
+R23
+!i113 1
+R6
+R7
+vcompare_exp
+Z24 !s110 1576072164
+!i10b 1
+!s100 Lhb5<XJ5Mbh>WKV>VW9G]1
+IdU5I<@MX^=F6EQYa4jHN42
+R1
+R2
+w1576026209
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/compare_exp.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/compare_exp.v
+R3
+R4
+r1
+!s85 0
+31
+Z25 !s108 1576072164.000000
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/compare_exp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/compare_exp.v|
+!i113 1
+R6
+R7
+vdiv
+R24
+!i10b 1
+!s100 `;a2>NX=_=`l8>CW:DPTZ2
+I1SE;l3XkQYI9NN9kiV1Ok3
+R1
+R2
+w1576072159
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/div.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/div.v
+R15
+R4
+r1
+!s85 0
+31
+R25
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/div.v|
+!i113 1
+R6
+R7
+vdivision
+R24
+!i10b 1
+!s100 IIFMJ`d6=]m8z_:W:W7FU1
+IN@hTIoa?Ml3BS=U3OgSjQ1
+R1
+R2
+w1575989432
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division.v
+R3
+R4
+r1
+!s85 0
+31
+R25
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division.v|
+!i113 1
+R6
+R7
+vdivision_tb
+R24
+!i10b 1
+!s100 M<;o7@C3G_AYJ_SGX3^1`2
+IdN12Jo97aZj^@9iE5X_nW0
+R1
+R2
+w1575607932
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division_tb.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R25
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/division_tb.v|
+!i113 1
+R6
+R7
+vexport_result_addsub
+R24
+!i10b 1
+!s100 g1Ne3cn?OB3QnHFF25>F41
+I^gE:_FPanPKYPH70eoWXd0
+R1
+R2
+Z26 w1576026389
+Z27 8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/export_result.v
+Z28 FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/export_result.v
+R3
+R4
+r1
+!s85 0
+31
+R25
+Z29 !s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/export_result.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/export_result.v|
+!i113 1
+R6
+R7
+vexport_result_div
+R24
+!i10b 1
+!s100 le^8_5^7=CDoVHOE<DQce1
+IWnM_8R2fWi2CijbEJc[@92
+R1
+R2
+R26
+R27
+R28
+L0 85
+R4
+r1
+!s85 0
+31
+R25
+R29
+R30
+!i113 1
+R6
+R7
+vexport_result_mult
+R24
+!i10b 1
+!s100 Kfj2fZdk7l:HB1R8Z9XFL0
+IP>z^Kf`?KW_C_CG@8^eoV2
+R1
+R2
+R26
+R27
+R28
+L0 50
+R4
+r1
+!s85 0
+31
+R25
+R29
+R30
+!i113 1
+R6
+R7
+vFA_tb
+R24
+!i10b 1
+!s100 L1keDig6N6PKIlV[L]ob83
+IJM4eJhLg3S6gQoa<B3h]E3
+R1
+R2
+w1572677109
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/FA_tb.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/FA_tb.v
+L0 2
+R4
+r1
+!s85 0
+31
+R25
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/FA_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/FA_tb.v|
+!i113 1
+R6
+R7
+n@f@a_tb
+vfind_1_first
+R24
+!i10b 1
+!s100 kS?LA[hN4>F6KGWk>ML@51
+IV`8f`fWm``lSUZC@cak_T2
+R1
+R2
+w1576026473
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/find_1_first.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/find_1_first.v
+Z31 L0 17
+R4
+r1
+!s85 0
+31
+R25
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/find_1_first.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/find_1_first.v|
+!i113 1
+R6
+R7
+vlarge_distance
+Z32 !s110 1576072165
+!i10b 1
+!s100 D2ARaE[0:VGiDJNancNo_1
+I6<0384GdnNhT3j7iRGDne1
+R1
+R2
+w1575989426
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/large_distance.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/large_distance.v
+L0 1
+R4
+r1
+!s85 0
+31
+R25
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/large_distance.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/large_distance.v|
+!i113 1
+R6
+R7
+vmult24
+R32
+!i10b 1
+!s100 ?`SNVmL[cCXQ`:<[S>oTl1
+I?a[KUnS0jleiU:dNfVQ=h3
+R1
+R2
+w1576072071
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mult.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mult.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z33 !s108 1576072165.000000
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mult.v|
+!i113 1
+R6
+R7
+vmultiplier
+R32
+!i10b 1
+!s100 F8X6NPT875UPUaBGb51@_3
+I;A`EN9dL<nd7b]QoH6j3H1
+R1
+R2
+w1576026575
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier.v
+R3
+R4
+r1
+!s85 0
+31
+R33
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier.v|
+!i113 1
+R6
+R7
+vmultiplier_tb
+R32
+!i10b 1
+!s100 ZgkQA1MMa[7?NZB>[a6Ej1
+IY]JUPdVH`jL9F0RzbUBgc3
+R1
+R2
+w1572678703
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier_tb.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier_tb.v
+L0 2
+R4
+r1
+!s85 0
+31
+R33
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/multiplier_tb.v|
+!i113 1
+R6
+R7
+vmux1b
+R32
+!i10b 1
+!s100 l5@Kck22FU4IYa=EGVbMd0
+I>@PUmomX49GXa1ZQb]?M^2
+R1
+R2
+Z34 w1571412406
+Z35 8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mux.v
+Z36 FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mux.v
+L0 33
+R4
+r1
+!s85 0
+31
+R33
+Z37 !s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mux.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/mux.v|
+!i113 1
+R6
+R7
+vmux24b
+R32
+!i10b 1
+!s100 A:5IHPcdV4gM8fm:WROoW2
+IcF^S8Cz6j;Uk?R33@]A1l3
+R1
+R2
+R34
+R35
+R36
+R15
+R4
+r1
+!s85 0
+31
+R33
+R37
+R38
+!i113 1
+R6
+R7
+vmux8b
+R32
+!i10b 1
+!s100 TI:;XDbIn81`izTTf]VlB3
+ICWlf9QaL7mn:><^zFMQNO1
+R1
+R2
+R34
+R35
+R36
+L0 24
+R4
+r1
+!s85 0
+31
+R33
+R37
+R38
+!i113 1
+R6
+R7
+vnormalize
+R32
+!i10b 1
+!s100 BaLoO<e_Y];K^c^M?HfSF0
+IaS_YN:1UK=Q23C2QT^G=]3
+R1
+R2
+w1575989429
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize.v
+R3
+R4
+r1
+!s85 0
+31
+R33
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize.v|
+!i113 1
+R6
+R7
+vnormalize_mult
+R0
+!i10b 1
+!s100 l]o<iR=8;<AjjaP8:0alk2
+I<_FfR=dTVkR^a_@<<fHan0
+R1
+R2
+w1576027775
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize_mult.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize_mult.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize_mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/normalize_mult.v|
+!i113 1
+R6
+R7
+vpostadder26
+R0
+!i10b 1
+!s100 :UJ1Yoaa=5C]TzNk1hG[O3
+I]cGk]PFbc>5[d=N[>LU<V3
+R1
+R2
+w1572509061
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/postadder26.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/postadder26.v
+R31
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/postadder26.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/postadder26.v|
+!i113 1
+R6
+R7
+vpreadder26
+R0
+!i10b 1
+!s100 d;fc[NNMgIO1LAd42EgF40
+IbQ47k:[N9Cn1=FHNmTOaj3
+R1
+R2
+w1572508464
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/preadder26.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/preadder26.v
+R15
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/preadder26.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/preadder26.v|
+!i113 1
+R6
+R7
+vshiftleft
+R0
+!i10b 1
+!s100 kk7[5nkl9K<doV;E<NROO1
+IUjRcl[]O4aSWIJj7Q64[g2
+R1
+R2
+Z39 w1572510798
+Z40 8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftleft.v
+Z41 FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftleft.v
+R15
+R4
+r1
+!s85 0
+31
+R5
+Z42 !s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftleft.v|
+Z43 !s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftleft.v|
+!i113 1
+R6
+R7
+vshiftleftby1
+R0
+!i10b 1
+!s100 ]b[?QJDT:EW5<>h1R2bzT1
+InGTI[JMR6M`occf2zK`RT2
+R1
+R2
+R39
+R40
+R41
+L0 29
+R4
+r1
+!s85 0
+31
+R5
+R42
+R43
+!i113 1
+R6
+R7
+vshiftleftby16
+R0
+!i10b 1
+!s100 N^W;PPn:MLfWk3NR]iif_0
+IPH71CL[:4H><MVOl^0o0d1
+R1
+R2
+R39
+R40
+R41
+L0 64
+R4
+r1
+!s85 0
+31
+R5
+R42
+R43
+!i113 1
+R6
+R7
+vshiftleftby2
+R0
+!i10b 1
+!s100 XRX`_DjG33_5B21?EY1ko2
+IKO79mIig[mRicI=QP05Hg1
+R1
+R2
+R39
+R40
+R41
+L0 37
+R4
+r1
+!s85 0
+31
+R5
+R42
+R43
+!i113 1
+R6
+R7
+vshiftleftby4
+R0
+!i10b 1
+!s100 <4IW1JWBHj;K0g:Sg0JhV0
+II5[Z8ze?3HYO2fU9]_9:l2
+R1
+R2
+R39
+R40
+R41
+L0 46
+R4
+r1
+!s85 0
+31
+R5
+R42
+R43
+!i113 1
+R6
+R7
+vshiftleftby8
+R0
+!i10b 1
+!s100 LXzXD0_c[_^UJfE@XXcSm2
+I6NYa2>[dTlNFLOSGAe>@k3
+R1
+R2
+R39
+R40
+R41
+L0 55
+R4
+r1
+!s85 0
+31
+R5
+R42
+R43
+!i113 1
+R6
+R7
+vshiftright
+R0
+!i10b 1
+!s100 @CgKYi6HKlNI^5=?6h^4:2
+I]j6M]N[Lj190NUe[SBd3b2
+R1
+R2
+Z44 w1572509107
+Z45 8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftright.v
+Z46 FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftright.v
+R15
+R4
+r1
+!s85 0
+31
+R5
+Z47 !s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftright.v|
+Z48 !s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/shiftright.v|
+!i113 1
+R6
+R7
+vshiftrightby1
+R0
+!i10b 1
+!s100 ]GRDWA<5VSW3T1O<`XCzU1
+I95IFTESdgEQbShUkJi5RI2
+R1
+R2
+R44
+R45
+R46
+L0 30
+R4
+r1
+!s85 0
+31
+R5
+R47
+R48
+!i113 1
+R6
+R7
+vshiftrightby16
+R0
+!i10b 1
+!s100 XAg]69V_[3PY2E;HdfCMg2
+IGmYLC?idK^^fV5bID8PQH2
+R1
+R2
+R44
+R45
+R46
+Z49 L0 65
+R4
+r1
+!s85 0
+31
+R5
+R47
+R48
+!i113 1
+R6
+R7
+vshiftrightby2
+R0
+!i10b 1
+!s100 oOY`A>`J9;G8LH3[6ZI<41
+IRK0T@AV5TXT<8FmgnR0[40
+R1
+R2
+R44
+R45
+R46
+L0 38
+R4
+r1
+!s85 0
+31
+R5
+R47
+R48
+!i113 1
+R6
+R7
+vshiftrightby4
+R0
+!i10b 1
+!s100 ;]aOfS`jPjh^4YY[A1jzk1
+I>_CDFBPP7W0Uj:9K08TG@0
+R1
+R2
+R44
+R45
+R46
+L0 47
+R4
+r1
+!s85 0
+31
+R5
+R47
+R48
+!i113 1
+R6
+R7
+vshiftrightby8
+R0
+!i10b 1
+!s100 03WNzZ4M3YU@9HZJ3o9Gk2
+ImAKA=PSJnH_QSBjk47Kha0
+R1
+R2
+R44
+R45
+R46
+L0 56
+R4
+r1
+!s85 0
+31
+R5
+R47
+R48
+!i113 1
+R6
+R7
+vsmall_distance
+R0
+!i10b 1
+!s100 @h:aj0LPT9Rm[H]9L4QV<0
+IMOV2X[H;a9Y`0<Hnk2fG@1
+R1
+R2
+w1575989424
+8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/small_distance.v
+FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/small_distance.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/small_distance.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/small_distance.v|
+!i113 1
+R6
+R7
+vtwo_compliment10
+R0
+!i10b 1
+!s100 F0bCWCC1K3Jz4d:c5hK2K1
+IE9:n8e>NR91573zFFhHjl3
+R1
+R2
+Z50 w1574690792
+Z51 8D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/two_compliment.v
+Z52 FD:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/two_compliment.v
+L0 27
+R4
+r1
+!s85 0
+31
+R5
+Z53 !s107 D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/two_compliment.v|
+Z54 !s90 -reportprogress|300|-work|work|-stats=none|D:/HK191/KTSNC/Final_Project/AU_FLOATING_POINT_giaithuat2_nhan/two_compliment.v|
+!i113 1
+R6
+R7
+vtwo_compliment25
+R0
+!i10b 1
+!s100 Z>ojcWdJo:c^_9^Bk3b`e1
+I3Uea]UH=M:FheXK0WEfRi2
+R1
+R2
+R50
+R51
+R52
+L0 14
+R4
+r1
+!s85 0
+31
+R5
+R53
+R54
+!i113 1
+R6
+R7
+vtwo_compliment5
+R0
+!i10b 1
+!s100 YP3KYF0WiWeC89@BOa0XH1
+IhUo^Zf=o0kH`8jJ3HPS@O3
+R1
+R2
+R50
+R51
+R52
+R49
+R4
+r1
+!s85 0
+31
+R5
+R53
+R54
+!i113 1
+R6
+R7
+vtwo_compliment8
+R0
+!i10b 1
+!s100 ;h0_N[P561KM?L<R<8_N51
+IZ5a4@^9:52ch;:HB8eaJ10
+R1
+R2
+R50
+R51
+R52
+L0 53
+R4
+r1
+!s85 0
+31
+R5
+R53
+R54
+!i113 1
+R6
+R7
+vtwo_compliment9
+R0
+!i10b 1
+!s100 5g@V_dEShN`OCl^OILjOV0
+I=hK1XLb:FJYeJ:D^MdffO0
+R1
+R2
+R50
+R51
+R52
+R16
+R4
+r1
+!s85 0
+31
+R5
+R53
+R54
+!i113 1
+R6
+R7

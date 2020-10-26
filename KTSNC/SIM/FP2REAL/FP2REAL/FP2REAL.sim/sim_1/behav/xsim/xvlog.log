@@ -1,0 +1,55 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder24
+INFO: [VRFC 10-311] analyzing module adder18
+INFO: [VRFC 10-311] analyzing module adder12
+INFO: [VRFC 10-311] analyzing module adder9
+INFO: [VRFC 10-311] analyzing module adder8
+INFO: [VRFC 10-311] analyzing module adder6
+INFO: [VRFC 10-311] analyzing module adder5
+INFO: [VRFC 10-311] analyzing module full_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/adder_BCD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder5_forBCD
+INFO: [VRFC 10-311] analyzing module adder4_BCD
+INFO: [VRFC 10-311] analyzing module adder8_BCD
+INFO: [VRFC 10-311] analyzing module adder16_BCD
+INFO: [VRFC 10-311] analyzing module adder32_BCD
+INFO: [VRFC 10-311] analyzing module adder48_BCD
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/find_1_first.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module find_1_first
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fp2real
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fraction.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fraction
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult24
+INFO: [VRFC 10-311] analyzing module mult18
+INFO: [VRFC 10-311] analyzing module mult12
+INFO: [VRFC 10-311] analyzing module mult6
+INFO: [VRFC 10-311] analyzing module mult3
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/precision.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module precision
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftleft
+INFO: [VRFC 10-311] analyzing module shiftleftby1
+INFO: [VRFC 10-311] analyzing module shiftleftby2
+INFO: [VRFC 10-311] analyzing module shiftleftby4
+INFO: [VRFC 10-311] analyzing module shiftleftby8
+INFO: [VRFC 10-311] analyzing module shiftleftby16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft_frac.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftleft_frac
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftright
+INFO: [VRFC 10-311] analyzing module shiftrightby1
+INFO: [VRFC 10-311] analyzing module shiftrightby2
+INFO: [VRFC 10-311] analyzing module shiftrightby4
+INFO: [VRFC 10-311] analyzing module shiftrightby8
+INFO: [VRFC 10-311] analyzing module shiftrightby16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright_frac.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftright_frac
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/two_compliment.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module two_compliment24
+INFO: [VRFC 10-311] analyzing module two_compliment8
+INFO: [VRFC 10-311] analyzing module two_compliment5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/PC/Desktop/KTSNC/FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fp2real_tb

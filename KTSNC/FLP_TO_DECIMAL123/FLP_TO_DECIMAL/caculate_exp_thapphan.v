@@ -1,0 +1,1 @@
+module caculate_exp_thapphan(thapphan,so_mu)

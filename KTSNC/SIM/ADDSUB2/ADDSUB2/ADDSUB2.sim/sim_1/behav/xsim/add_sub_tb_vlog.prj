@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../ADDSUB2/add_sub.v" \
+"../../../../../../../ADDSUB2/adder.v" \
+"../../../../../../../ADDSUB2/checkspecial.v" \
+"../../../../../../../ADDSUB2/compare_exp.v" \
+"../../../../../../../ADDSUB2/export_result_addsub.v" \
+"../../../../../../../ADDSUB2/find_1_first.v" \
+"../../../../../../../ADDSUB2/mux.v" \
+"../../../../../../../ADDSUB2/normalize.v" \
+"../../../../../../../ADDSUB2/postadder26.v" \
+"../../../../../../../ADDSUB2/preadder26.v" \
+"../../../../../../../ADDSUB2/shiftleft.v" \
+"../../../../../../../ADDSUB2/shiftright.v" \
+"../../../../../../../ADDSUB2/too_large.v" \
+"../../../../../../../ADDSUB2/two_comp.v" \
+"../../../../../../../ADDSUB2/add_sub_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

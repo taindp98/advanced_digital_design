@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/adder.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/adder_BCD.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/find_1_first.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/fraction.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/mult.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/precision.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftleft_frac.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/shiftright_frac.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/two_compliment.v" \
+"../../../../../../../FLP_TO_DECIMAL/FLP_TO_DECIMAL/fp2real_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

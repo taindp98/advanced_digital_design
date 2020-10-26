@@ -1,0 +1,21 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+F:/KTSNC/ADDSUB/add_sub.v,1590479944,verilog,,F:/KTSNC/ADDSUB/adder.v,,add_sub,,,,,,,,
+F:/KTSNC/ADDSUB/add_sub_tb.v,1590474378,verilog,,,,add_sub_tb,,,,,,,,
+F:/KTSNC/ADDSUB/adder.v,1590472332,verilog,,F:/KTSNC/ADDSUB/checkspecial.v,,adder10;adder25;adder26;adder8;adder9,,,,,,,,
+F:/KTSNC/ADDSUB/checkspecial.v,1590413124,verilog,,F:/KTSNC/ADDSUB/clb.v,,checkspecial,,,,,,,,
+F:/KTSNC/ADDSUB/clb.v,1590407142,verilog,,F:/KTSNC/ADDSUB/compare_exp.v,,clb;clb2;clb3,,,,,,,,
+F:/KTSNC/ADDSUB/compare_exp.v,1590476064,verilog,,F:/KTSNC/ADDSUB/export_result_addsub.v,,compare_exp,,,,,,,,
+F:/KTSNC/ADDSUB/export_result_addsub.v,1590413526,verilog,,F:/KTSNC/ADDSUB/find_1_first.v,,export_result_addsub,,,,,,,,
+F:/KTSNC/ADDSUB/find_1_first.v,1590410732,verilog,,F:/KTSNC/ADDSUB/mux.v,,find_1_first,,,,,,,,
+F:/KTSNC/ADDSUB/mux.v,1590413154,verilog,,F:/KTSNC/ADDSUB/normalize.v,,mux1b;mux24b;mux8b,,,,,,,,
+F:/KTSNC/ADDSUB/normalize.v,1590413004,verilog,,F:/KTSNC/ADDSUB/postadder26.v,,normalize,,,,,,,,
+F:/KTSNC/ADDSUB/postadder26.v,1590410630,verilog,,F:/KTSNC/ADDSUB/preadder26.v,,postadder26,,,,,,,,
+F:/KTSNC/ADDSUB/preadder26.v,1590409650,verilog,,F:/KTSNC/ADDSUB/shiftleft.v,,preadder26,,,,,,,,
+F:/KTSNC/ADDSUB/shiftleft.v,1590410600,verilog,,F:/KTSNC/ADDSUB/shiftright.v,,shiftleft;shiftleftby1;shiftleftby16;shiftleftby2;shiftleftby4;shiftleftby8,,,,,,,,
+F:/KTSNC/ADDSUB/shiftright.v,1590413182,verilog,,F:/KTSNC/ADDSUB/too_large.v,,shiftright;shiftrightby1;shiftrightby16;shiftrightby2;shiftrightby4;shiftrightby8,,,,,,,,
+F:/KTSNC/ADDSUB/too_large.v,1590480444,verilog,,F:/KTSNC/ADDSUB/two_comp.v,,too_large,,,,,,,,
+F:/KTSNC/ADDSUB/two_comp.v,1590472204,verilog,,F:/KTSNC/ADDSUB/add_sub_tb.v,,two_comp10;two_comp25;two_comp8;two_comp9,,,,,,,,
+F:/KTSNC/SIM/ADDSUB/ADDSUB.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,

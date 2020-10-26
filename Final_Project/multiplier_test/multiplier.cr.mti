@@ -1,0 +1,124 @@
+D:/HK191/KTSNC/Final_Project/multiplier_test/multiplier_tb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/multiplier_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier_tb
+
+Top level modules:
+	multiplier_tb
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/multiplier.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/export_result.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/export_result.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module export_result_addsub
+-- Compiling module export_result_mult
+-- Compiling module export_result_div
+
+Top level modules:
+	export_result_addsub
+	export_result_mult
+	export_result_div
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/clb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/clb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clb
+-- Compiling module clb3
+-- Compiling module clb2
+
+Top level modules:
+	clb
+	clb3
+	clb2
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/normalize.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/normalize.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module normalize
+
+Top level modules:
+	normalize
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/two_compliment.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/two_compliment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module two_compliment25
+-- Compiling module two_compliment10
+-- Compiling module two_compliment9
+-- Compiling module two_compliment8
+
+Top level modules:
+	two_compliment25
+	two_compliment10
+	two_compliment9
+	two_compliment8
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/FA_tb.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/FA_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA_tb
+
+Top level modules:
+	FA_tb
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/checkspecial.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/checkspecial.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module checkspecial
+
+Top level modules:
+	checkspecial
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/find_1_first.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/find_1_first.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module find_1_first
+
+Top level modules:
+	find_1_first
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/adder.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder3
+-- Compiling module adder6
+-- Compiling module adder8
+-- Compiling module adder9
+-- Compiling module adder10
+-- Compiling module adder12
+-- Compiling module adder24
+-- Compiling module adder25
+-- Compiling module adder26
+
+Top level modules:
+	adder3
+	adder6
+	adder8
+	adder9
+	adder10
+	adder12
+	adder24
+	adder25
+	adder26
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/shiftleft.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/shiftleft.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shiftleft
+-- Compiling module shiftleftby1
+-- Compiling module shiftleftby2
+-- Compiling module shiftleftby4
+-- Compiling module shiftleftby8
+-- Compiling module shiftleftby16
+
+Top level modules:
+	shiftleft
+
+} {} {}} D:/HK191/KTSNC/Final_Project/multiplier_test/mult.v {1 {vlog -work work -stats=none D:/HK191/KTSNC/Final_Project/multiplier_test/mult.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mult24
+-- Compiling module mult12
+-- Compiling module mult6
+-- Compiling module mult3
+-- Compiling module FA
+
+Top level modules:
+	mult24
+
+} {} {}}
